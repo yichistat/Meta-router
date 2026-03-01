@@ -19,7 +19,7 @@ It contains, for HealthBench questions:
 ---
 
 ### **2. `PC50_varstd_RF_100G.py`**  
-This file contains  the code corresponding to the simulations in Figure 1(a).  
+This file contains  the simulation code corresponding to Figure 1(a) in the main paper.  
 
 ---
 
