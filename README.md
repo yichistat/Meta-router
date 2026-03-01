@@ -18,8 +18,8 @@ It contains, for HealthBench questions:
 
 ---
 
-### **2. `PC50_varstd_RF_100G.csv`**  
-This file contains the data used for the simulation displayed in Figure 1(a) of the paper.  
+### **2. `PC50_varstd_RF_100G.py`**  
+This file contains  the code corresponding to the simulations in Figure 1(a).  
 
 ---
 
@@ -29,9 +29,5 @@ This file stores the simulation results corresponding to the experiment above.
 ---
 
 ### **4. `generate_plot.py`**  
-A standalone Python script for generating **Figure 1(a)** based on the simulation results as it appears in the paper.
+A Python script for generating **Figure 1(a)** based on the simulation results in PC50_varstd_RF_100G_individual_runs.csv.
 
-Run:
-
-```bash
-python generate_plot.py
