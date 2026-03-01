@@ -15,7 +15,6 @@ It contains, for HealthBench questions:
 - The corresponding gold-standard–based quality gain;  
 - The corresponding preference-based quality gain.
 
-These features are used as the basis of our PC-based simulation and regression analysis.
 
 ---
 
