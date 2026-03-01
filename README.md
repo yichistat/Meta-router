@@ -1,4 +1,5 @@
-# Illustrative Code for ICLR 2026 Paper 
+# Illustrative Code for "Meta-Router: Bridging Gold-standard and Preference-based Evaluations in LLM Routing"
+Paper link: https://iclr.cc/virtual/2026/poster/10007190
 
 This repository contains the illustrative code and data accompanying Meta-Router: Bridging Gold-standard and Preference-based Evaluations in LLM Routing. It provides the minimal reproducible components needed to generate Figure 1(a) for the main experiment of the paper.
 
