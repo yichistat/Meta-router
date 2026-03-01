@@ -29,5 +29,5 @@ This file stores the simulation results corresponding to the experiment above.
 ---
 
 ### **4. `generate_plot.py`**  
-A Python script for generating **Figure 1(a)** as in PC50_varstd_RF_100G_plot.png, based on the above simulation results.
+A Python script for generating **Figure 1(a)** as in **PC50_varstd_RF_100G_plot.png**, based on the above simulation results.
 
